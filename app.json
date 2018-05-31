@@ -1,0 +1,5 @@
+{
+  "name": "Password Strength Service",
+  "description": "Handles Shannon entropy based strength calculation for user passwords",
+  "repository": "https://github.com/jaggederest/password-strength-service"
+}
